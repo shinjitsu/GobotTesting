@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1719bbcb-e6bd-44c0-a4f8-f09433b94d59" name="Default Changelist" comment="" />
+    <list default="true" id="1719bbcb-e6bd-44c0-a4f8-f09433b94d59" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/GobotGPG3Outline.go" beforeDir="false" afterPath="$PROJECT_DIR$/GobotGPG3Outline.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +17,9 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
